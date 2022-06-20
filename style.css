@@ -31,3 +31,11 @@ width:1000px;
 p {
     text-align: justify;
 }  
+.bal{
+    text-decoration: none;
+   background-image: linear-gradient(red,tomato);
+   padding: 10px 40px;
+   border-radius: 5px;
+   color: white;
+   font-weight: 700;
+}
